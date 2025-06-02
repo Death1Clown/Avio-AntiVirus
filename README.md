@@ -12,7 +12,7 @@
 ### ❌ Non-Windows Embedded Systems
 ## Promises:
 ### Not a virus
-### Works 100% off the time for all viruses found my microsoft
+### Works over 90% of the time
 ## 
 ## How our software works!
 Our software works by location suspisious files and removing the ones that are violating microsoft 
